@@ -1,0 +1,13 @@
+.formEx{
+	border-style: solid;
+	padding: 10px;
+	position: fixed;
+}
+li{
+	text-align: left;
+}
+ul > li:hover{
+	background-color: #61B7CF;
+	cursor: pointer;
+	
+}
